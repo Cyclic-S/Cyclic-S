@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/Cyclic-S?template=classic&isocalendar=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai&config.twemoji=true&config.octicon=true&config.display=columns)
+<div align="center"> <img src="https://metrics.lecoq.io/Cyclic-S?template=classic&isocalendar=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai&config.twemoji=true&config.octicon=true&config.display=columns"> </div>
 ### Hi there 👋
 
 <!--
