@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **Cyclic-S/Cyclic-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Welcome to follow my [Zhihu](https://www.zhihu.com/people/truth-26-44) account and my [bilibili](https://space.bilibili.com/516695104?spm_id_from=333.788.0.0) account.
